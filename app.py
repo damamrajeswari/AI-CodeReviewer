@@ -1,9 +1,5 @@
 import streamlit as st
 import google.generativeai as genai
-from IPython.display import Markdown
-
-
-
 
 
 
