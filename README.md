@@ -18,7 +18,7 @@ The **AI-CodeReviwer** is an AI-powered tool that helps developers review their 
 
 ---
 
-## 🏗 Installation & Setup
+##  Installation & Setup
 
 ### **1️⃣ Clone the Repository**
 ```bash
@@ -27,7 +27,7 @@ cd AI-CodeReviewer
 ```
 
 ### **2️⃣ Install Dependencies**
-Ensure you have Python 3.9+ installed. Then, install required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
