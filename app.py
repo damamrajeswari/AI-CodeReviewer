@@ -18,7 +18,7 @@ code_reviewer=genai.GenerativeModel(model_name="models/gemini-2.0-flash-exp",sys
 st.title("AI ReviewBot🤖")
 
 
-user_prompt=st.text_area("Enter the code to be reviewed...")
+user_prompt=st.text_area("Enter the code to be reviewed...",height=250)
 
 btn=st.button("📝Review")
 
