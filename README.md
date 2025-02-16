@@ -4,6 +4,8 @@ AI Reviewbot using gemini
 ---
 🔗 Live Application URL: (https://ai-codereviewerb.streamlit.app/)
 
+[![Alt Text](images\test3.png)](https://ai-codereviewerb.streamlit.app/)
+
 ## 🚀 Overview
 The **AI-CodeReviwer** is an AI-powered tool that helps developers review their code using Google's **Gemini (Google Generative AI)**. It provides intelligent feedback, suggests optimizations, and detects potential issues in the code.
 
@@ -73,5 +75,5 @@ AI-CodeReviewer/
 
 ---
 
-### 🎯 Happy Learning and Experimenting🚀
+### 🎯 Happy Learning and Exploring🚀
 
