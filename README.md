@@ -4,7 +4,7 @@ AI Reviewbot using gemini
 ---
 🔗 Live Application URL: (https://ai-codereviewerb.streamlit.app/)
 
-[![Alt Text](images\test3.png)](https://ai-codereviewerb.streamlit.app/)
+[![Alt Text](images/test3.png)](https://ai-codereviewerb.streamlit.app/)
 
 ## 🚀 Overview
 The **AI-CodeReviwer** is an AI-powered tool that helps developers review their code using Google's **Gemini (Google Generative AI)**. It provides intelligent feedback, suggests optimizations, and detects potential issues in the code.
@@ -18,7 +18,7 @@ The **AI-CodeReviwer** is an AI-powered tool that helps developers review their 
 
 ---
 
-## 🏗 Installation & Setup
+##  Installation & Setup
 
 ### **1️⃣ Clone the Repository**
 ```bash
@@ -27,7 +27,7 @@ cd AI-CodeReviewer
 ```
 
 ### **2️⃣ Install Dependencies**
-Ensure you have Python 3.9+ installed. Then, install required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
