@@ -1,9 +1,9 @@
 import streamlit as st
 import google.generativeai as genai
 
+api_key = GEMINI_API_KEY = st.secrets["api_keys"]["gemini"]
 
-
-genai.configure(api_key="AIzaSyCPF_fd2N_i-5BslHRygfAWtBVb2ydl1bc")
+genai.configure(api_key=api_key)
 
 
 system_prompt="""
